@@ -10,3 +10,8 @@ Type-4
 Type-5
 ![image](https://github.com/abhig1599/Different-Type-of-Navbar/assets/120269927/c99f89b0-7bcd-46b5-b9e3-5526a84a7c32)
 
+navbar.js
+![image](https://github.com/abhig1599/Different-Type-of-Navbar/assets/120269927/fb4a4fa5-2b7a-470f-ab87-adc687baba43)
+![image](https://github.com/abhig1599/Different-Type-of-Navbar/assets/120269927/eb11efa1-04b1-406b-b0d4-3e608a0ac0b4)
+in full screen 
+![image](https://github.com/abhig1599/Different-Type-of-Navbar/assets/120269927/0432ed4e-3ed7-44cd-91bc-a4ef7b8befca)
